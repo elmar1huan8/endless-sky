@@ -1,4 +1,3 @@
-version: "3.9"
 services:
   steam-x64:
     image: registry.gitlab.steamos.cloud/steamrt/sniper/sdk:latest
